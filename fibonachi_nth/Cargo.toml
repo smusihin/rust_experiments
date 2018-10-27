@@ -1,0 +1,6 @@
+[package]
+name = "fibonachi_nth"
+version = "0.1.0"
+authors = ["Sergey Musikhin <musihin_sergei@mail.ru>"]
+
+[dependencies]
